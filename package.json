@@ -1,0 +1,7 @@
+{
+  "name": "esp32-proxy-mysql",
+  "version": "1.0.0",
+  "dependencies": {
+    "serverless-mysql": "^1.5.5"
+  }
+}
